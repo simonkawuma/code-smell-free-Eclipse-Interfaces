@@ -1,0 +1,1 @@
+# code-smell-free-Eclipse-Interfaces
